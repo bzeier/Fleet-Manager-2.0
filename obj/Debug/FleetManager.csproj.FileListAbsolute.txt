@@ -1,0 +1,11 @@
+C:\Users\Brand\source\repos\FleetManager\FleetManager\bin\Debug\FleetManager.exe.config
+C:\Users\Brand\source\repos\FleetManager\FleetManager\bin\Debug\FleetManager.exe
+C:\Users\Brand\source\repos\FleetManager\FleetManager\bin\Debug\FleetManager.pdb
+C:\Users\Brand\source\repos\FleetManager\FleetManager\obj\Debug\FleetManager.csproj.AssemblyReference.cache
+C:\Users\Brand\source\repos\FleetManager\FleetManager\obj\Debug\FleetManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brand\source\repos\FleetManager\FleetManager\obj\Debug\FleetManager.Properties.Resources.resources
+C:\Users\Brand\source\repos\FleetManager\FleetManager\obj\Debug\FleetManager.csproj.GenerateResource.cache
+C:\Users\Brand\source\repos\FleetManager\FleetManager\obj\Debug\FleetManager.csproj.CoreCompileInputs.cache
+C:\Users\Brand\source\repos\FleetManager\FleetManager\obj\Debug\FleetManager.exe
+C:\Users\Brand\source\repos\FleetManager\FleetManager\obj\Debug\FleetManager.pdb
+C:\Users\Brand\source\repos\FleetManager\FleetManager\obj\Debug\FleetManager.Form1.resources
