@@ -76,7 +76,7 @@ namespace FleetManager
 
             System.Diagnostics.Debug.WriteLine("Starting a new Fleet instance...");
 
-            Fleet newFleetInstance = new Fleet(IPAdress, BasePort, Program.hostWeb.BaseAddresses[0].ToString() + "_"+ FLEETS);
+            Fleet newFleetInstance = new Fleet(IPAdress, (int.Parse(BasePort) + FLEETS).ToString(), Program.hostWeb.BaseAddresses[0].ToString() + "_"+ FLEETS);
             FleetInstances.Add(newFleetInstance);
             FLEETS++;
             Debug.WriteLine(FleetInstances.Count);

@@ -44,7 +44,15 @@ namespace FleetManager
             string path = AppDomain.CurrentDomain.BaseDirectory;
             //string[] files = Directory.GetFiles(path);
 
-            Process _process = Process.Start(path + "/UEServerDummy.exe");
+            Process _process = new Process
+            {
+                StartInfo =
+              {
+                  FileName = path + "/UEServerDummy.exe",
+                  Arguments =  "-port=" + MyPort
+              }
+            };
+            _process.Start();
 
             return _process;
         }
